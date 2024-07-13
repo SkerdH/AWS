@@ -53,12 +53,3 @@
     <li>Review the architecture diagram and familiarize yourself with the components.</li>
     <li>Use the provided CloudFormation templates or Terraform scripts to set up the environment (scripts provided in the repository).</li>
 </ol>
-
-<h2>Contribution</h2>
-<p>Feel free to contribute to the repository by opening issues or submitting pull requests.</p>
-
-<h2>License</h2>
-<p>This project is licensed under the MIT License.</p>
-
-</body>
-</html>

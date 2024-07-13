@@ -9,7 +9,7 @@
 
 <h1>High-Level Architecture Overview</h1>
 
-<img src="https://imgur.com/RvJ41Cu" alt="High-Level Architecture">
+<img src="https://i.imgur.com/RvJ41Cu.png" alt="High-Level Architecture">
 
 <h2>Overview</h2>
 <p>This repository contains a high-level architecture diagram for our web application hosted on AWS. The architecture leverages various AWS services to ensure scalability, security, and high availability.</p>

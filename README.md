@@ -46,10 +46,3 @@
     <li><strong>Network Access Control List (NACL)</strong>: Provides an additional layer of security for the VPC.</li>
 </ul>
 
-<h2>How to Use</h2>
-<p>To deploy the architecture, follow these steps:</p>
-<ol>
-    <li>Clone the repository.</li>
-    <li>Review the architecture diagram and familiarize yourself with the components.</li>
-    <li>Use the provided CloudFormation templates or Terraform scripts to set up the environment (scripts provided in the repository).</li>
-</ol>
